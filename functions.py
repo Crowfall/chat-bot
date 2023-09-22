@@ -1,6 +1,6 @@
 import openai
 import requests
-openai.api_key = "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"
+openai.api_key = "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"
 from transformers import pipeline, BertTokenizer
 from gtts import gTTS
 from pydub import AudioSegment
